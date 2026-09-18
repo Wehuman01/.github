@@ -28,10 +28,13 @@ Most attention is lost between intending and starting. We work in that gap: quie
 | :-- | :-- | :-- |
 | <sub>01</sub> | [aweskill](https://github.com/Wehuman01/aweskill) | CLI-first skill package manager for AI agents. |
 | <sub>02</sub> | [aweswitch](https://github.com/Wehuman01/aweswitch) | Switch model profiles, endpoints, and credentials without friction. |
-| <sub>03</sub> | [aweshelf](https://github.com/Wehuman01/aweshelf) | Bookmark, organize, and restore coding-agent sessions. |
-| <sub>04</sub> | [awefork](https://github.com/Wehuman01/awefork) | A non-linear workbench for branching AI coding sessions. |
-| <sub>05</sub> | [awehitch](https://github.com/Wehuman01/awehitch) | Pair a coding agent with ChatGPT's web-based planning brain. |
-| <sub>06</sub> | [awerouter](https://github.com/Wehuman01/awerouter) | Route LLM work between fast and capable models by structural signals. |
+| <sub>03</sub> | [awefork](https://github.com/Wehuman01/awefork) | A non-linear workbench for branching AI coding sessions. |
+| <sub>04</sub> | [awehitch](https://github.com/Wehuman01/awehitch) | Pair a coding agent with ChatGPT's web-based planning brain. |
+| <sub>05</sub> | [awerouter](https://github.com/Wehuman01/awerouter) | Route LLM work between fast and capable models by structural signals. |
+| <sub>06</sub> | [awescholar](https://github.com/Wehuman01/awescholar) | Automated scientific literature discovery and curation. |
+| <sub>07</sub> | [aweshare](https://github.com/Wehuman01/aweshare) | Share authorized AI capacity without exposing upstream keys. |
+| <sub>08</sub> | [awewarm](https://github.com/Wehuman01/awewarm) | Keep AI coding-plan windows warm with minimal scheduled requests. |
+| <sub>09</sub> | [eggx](https://github.com/Wehuman01/eggx) | Evidence-based tracker for free AI coding credits. |
 
 <details>
 <summary><strong>More tools in the awe ecosystem</strong></summary>
@@ -39,12 +42,9 @@ Most attention is lost between intending and starting. We work in that gap: quie
 
 | Project | What it does |
 | :-- | :-- |
-| [awescholar](https://github.com/Wehuman01/awescholar) | Automated scientific literature discovery and curation. |
-| [aweshare](https://github.com/Wehuman01/aweshare) | Share authorized AI capacity without exposing upstream keys. |
-| [awewarm](https://github.com/Wehuman01/awewarm) | Keep AI coding-plan windows warm with minimal scheduled requests. |
+| [aweshelf](https://github.com/Wehuman01/aweshelf) | Bookmark, organize, and restore coding-agent sessions. |
 | [awecompress](https://github.com/Wehuman01/awecompress) | Compress long coding-agent contexts into durable summaries. |
 | [awecontrib](https://github.com/Wehuman01/awecontrib) | Shared verification and release conventions for the awe series. |
-| [eggx](https://github.com/Wehuman01/eggx) | Evidence-based tracker for free AI coding credits. |
 
 </details>
 
